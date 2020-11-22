@@ -1,0 +1,110 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "images/background.png",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "selInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "btnSubmitInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "inptUpdatedInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "btnGoBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "inptUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "hdrUpdateEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "btnEmailUpdateSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "emailUpdate",
+        "Elements",
+        "lblEmailUpdate.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "emailUpdate",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

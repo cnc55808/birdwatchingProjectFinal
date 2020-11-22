@@ -1,0 +1,113 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundImage": "",
+  "backgroundimage": "images/background.png",
+  "borderColor": "gray",
+  "borderStyle": "solid",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "inptGetPicture.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "Image1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "btnSave.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "inptBirdName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "lblUploadConfirm.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "lblInstructions.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "btnGoBack4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userPhotos",
+        "Elements",
+        "hdrUserPhotos.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 550,
+  "designWidth": 375,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "550",
+  "id": "userPhotos",
+  "language": "JavaScript",
+  "left": 0,
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "signUP.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "scroll_options": "mouseWheel:true, scrollbars:true, bounce:true, zoom:false",
+  "scrolling": "false",
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": 0,
+  "width": "375"
+}

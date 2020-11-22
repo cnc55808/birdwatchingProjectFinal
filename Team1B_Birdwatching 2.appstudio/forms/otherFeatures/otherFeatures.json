@@ -1,0 +1,92 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "images/background.png",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "otherFeatures",
+        "Elements",
+        "btnHome1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "otherFeatures",
+        "Elements",
+        "btnCalendar.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "otherFeatures",
+        "Elements",
+        "btnAccountInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "otherFeatures",
+        "Elements",
+        "btnUserAddBird.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "otherFeatures",
+        "Elements",
+        "hdrOtherFeatures.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "otherFeatures",
+        "Elements",
+        "btnUserPhotos.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "otherFeatures",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
